@@ -13,5 +13,5 @@ Analista em TI Sr, aprendendo a programar a vida com grandes soluções.
 ### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/douglasalvesnunes/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/douglasalvesnunes/)
 
