@@ -1,40 +1,33 @@
+<h1 align="center">Oi 👋, Sou Douglas</h1>
+<h3 align="center">Engenheiro de Software formado pela Unigran (2025) e Analista de TI Sênior em atividade.</h3>
 
-## 😉 Olá, bom ter você por aqui!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasalvesnunes&label=Profile%20views&color=0e75b6&style=flat" alt="douglasalvesnunes" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/seu-discord)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/seu-instagram)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglasalvesnunes" alt="douglasalvesnunes" /></a> </p>
 
----
+- 🔭 Atualmente estou trabalhando em **projetos particulares**
 
-Sou **Douglas Nunes**,  
-**Engenheiro de Software** formado pela Unigran (2025) e **Analista de TI Sênior** em atividade.  
+- 🌱 Atualmente estou aprendendo mais sobre **React e PHP**
 
-Atualmente em transição para o **desenvolvimento web e multiplataforma**, com foco em:  
-- **PHP** | **JavaScript** | **React** | **MySQL**  
-Valorizo **código limpo**, **documentação clara** e **soluções funcionais**.  
-Tenho interesse especial em aplicações web, automações e ferramentas úteis para o cotidiano.
+- 👨‍💻 Meus projetos estão disponíveis [aqui no Github](aqui no Github)
 
----
+- 📫 Como entrar em contato comigo: **douglasanunes@outlook.com**
 
-### 🚀 Tecnologias & Ferramentas
+- 📄 Sobre minhas experiências: [Engenheiro de Software formado pela Unigran (2025) e Analista de TI Sênior em atividade. Atualmente em transição para o desenvolvimento web e multiplataforma, com foco em PHP, JavaScript, React e MySQL. Valorizo código limpo, documentação clara e soluções funcionais. Interesse especial em aplicações web, automações e ferramentas úteis para o cotidiano.](Engenheiro de Software formado pela Unigran (2025) e Analista de TI Sênior em atividade. Atualmente em transição para o desenvolvimento web e multiplataforma, com foco em PHP, JavaScript, React e MySQL. Valorizo código limpo, documentação clara e soluções funcionais. Interesse especial em aplicações web, automações e ferramentas úteis para o cotidiano.)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/douglasalvesnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="douglasalvesnunes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/douglasalvesnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglasalvesnunes" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/douglasalvesnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="douglasalvesnunes" height="30" width="40" /></a>
+<a href="https://instagram.com/douglasalvesnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="douglasalvesnunes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/douglasalvesnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="douglasalvesnunes" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-### 📊 Estatísticas
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasalvesnunes&show_icons=true&locale=en" alt="douglasalvesnunes" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasalvesnunes&" alt="douglasalvesnunes" /></p>
 
-<div align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=douglasalvesnunes&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasalvesnunes&theme=merko&hide_border=true" height="150" alt="streak graph"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasalvesnunes&show_icons=true&locale=en&layout=compact" alt="douglasalvesnunes" /></p>
 
