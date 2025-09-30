@@ -1,13 +1,23 @@
-<img src = "banner.gif" width = "325px" align = "right">
 
 ## 😉 Olá, bom ter você por aqui!
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-  
-Sou Douglas,
 
-Engenheiro de Software formado pela Unigran (2025) e Analista de TI Sênior em atividade. Atualmente em transição para o desenvolvimento web e multiplataforma, com foco em PHP, JavaScript, React e MySQL. Valorizo código limpo, documentação clara e soluções funcionais. Interesse especial em aplicações web, automações e ferramentas úteis para o cotidiano.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/seu-discord)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/seu-instagram)
+
+---
+
+Sou **Douglas Nunes**,  
+**Engenheiro de Software** formado pela Unigran (2025) e **Analista de TI Sênior** em atividade.  
+
+Atualmente em transição para o **desenvolvimento web e multiplataforma**, com foco em:  
+- **PHP** | **JavaScript** | **React** | **MySQL**  
+Valorizo **código limpo**, **documentação clara** e **soluções funcionais**.  
+Tenho interesse especial em aplicações web, automações e ferramentas úteis para o cotidiano.
+
+---
+
+### 🚀 Tecnologias & Ferramentas
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -21,7 +31,10 @@ Engenheiro de Software formado pela Unigran (2025) e Analista de TI Sênior em a
 
 ---
 
-![douglasalvesnunes's Stats](https://github-readme-stats.vercel.app/api?username=douglasalvesnunes&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![douglasalvesnunes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=douglasalvesnunes&theme=merko&hide_border=true)
+### 📊 Estatísticas
 
-![douglasalvesnunes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalvesnunes&theme=merko&show_icons=true&hide_border=true&layout=compact&card_width=900)
+<div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=douglasalvesnunes&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasalvesnunes&theme=merko&hide_border=true" height="150" alt="streak graph"/>
+</div>
+
